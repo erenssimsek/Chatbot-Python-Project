@@ -14,8 +14,9 @@ Bu proje, **İstanbul Kültür Üniversitesi** kütüphane sistemi için gelişt
 
 <div style="display: flex; gap: 10px;">
     <img src="https://github.com/user-attachments/assets/f4baa36b-ce8d-451e-8180-fcdca4b4de03" alt="Giriş" width="400" height="320">
-    <img src="https://github.com/user-attachments/assets/59d6b835-05d0-4572-9b51-f0da19641653" alt="Sorular" width="400" height="320">
+    <img src="https://github.com/user-attachments/assets/b0b12a59-16b7-402b-a786-17eb57e3f8a3" alt="Sorular" width="400" height="320">
 </div>
+
 
 
 ## Kullanılan Teknolojiler  
